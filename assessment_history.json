@@ -1,0 +1,209 @@
+{
+    "Lohitha12": [
+        {
+            "date": "2026-09-24 09:23:45",
+            "target_role": "Web Developer",
+            "risk": "Medium Risk",
+            "risk_score": 62.5,
+            "match_percentage": 62.5,
+            "found_skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "SQL",
+                "Git"
+            ],
+            "missing_skills": [
+                "React",
+                "Flask",
+                "Django"
+            ],
+            "experience_months": 0,
+            "project_count": 2
+        },
+        {
+            "date": "2026-09-24 09:24:09",
+            "target_role": "Data Analyst",
+            "risk": "High Risk",
+            "risk_score": 33.57142857142857,
+            "match_percentage": 28.57142857142857,
+            "found_skills": [
+                "SQL",
+                "Tableau"
+            ],
+            "missing_skills": [
+                "Excel",
+                "Power BI",
+                "Statistics",
+                "Pandas",
+                "Data Visualization"
+            ],
+            "experience_months": 0,
+            "project_count": 3
+        },
+        {
+            "date": "2026-09-24 09:34:06",
+            "target_role": "Custom Job Description",
+            "assessment_type": "Job Description",
+            "job_description": "### Web Developer \u2013 Job Description\n\nWe are looking for a motivated and detail-oriented **Web Developer** to design, develop, test, and maintain responsive web applications. The candidate should have a good understanding of front-end and back-end development and be comfortable working with modern web technologies.\n\n**Responsibilities:**\n\n* Develop and maintain responsive, user-friendly websites and web applications.\n* Create web pages using **HTML, CSS, and JavaScript**.\n* Develop interactive and dynamic features using JavaScript and related frameworks.\n* Work with backend technologies such as **Python, Java, or Node.js**.\n* Design and integrate **REST APIs** and databases into web applications.\n* Write and optimize **SQL queries** for storing and retrieving application data.\n* Test, debug, and resolve application issues.\n* Ensure websites are responsive and compatible across different browsers and devices.\n* Use **Git/GitHub** for version control and collaborative development.\n* Collaborate with designers, developers, and other team members to implement application requirements.\n* Follow coding standards, security practices, and software development best practices.\n\n**Required Skills:**\n\n* HTML5, CSS3, JavaScript\n* Responsive Web Design\n* Python / Java / Node.js\n* SQL and database concepts\n* REST APIs\n* Git and GitHub\n* Basic knowledge of debugging and testing\n* Problem-solving and communication skills\n\n**Good to Have:**\n\n* React.js or another front-end framework\n* Flask/Django or Node.js backend development\n* Bootstrap/Tailwind CSS\n* Cloud deployment basics\n* Knowledge of UI/UX principles\n",
+            "required_skills": [
+                "Deployment",
+                "JavaScript",
+                "Django",
+                "Python",
+                "React",
+                "Flask",
+                "HTML",
+                "Java",
+                "Git",
+                "SQL",
+                "CSS"
+            ],
+            "risk": "Medium Risk",
+            "risk_score": 54.54545454545454,
+            "match_percentage": 54.54545454545454,
+            "found_skills": [
+                "JavaScript",
+                "Python",
+                "HTML",
+                "Git",
+                "SQL",
+                "CSS"
+            ],
+            "missing_skills": [
+                "Deployment",
+                "Django",
+                "React",
+                "Flask",
+                "Java"
+            ],
+            "experience_months": 0,
+            "project_count": 2
+        },
+        {
+            "date": "2026-09-24 09:35:39",
+            "target_role": "Custom Job Description",
+            "assessment_type": "Job Description",
+            "job_description": "### Web Developer \u2013 Job Description\n\nWe are looking for a motivated and detail-oriented **Web Developer** to design, develop, test, and maintain responsive web applications. The candidate should have a good understanding of front-end and back-end development and be comfortable working with modern web technologies.\n\n**Responsibilities:**\n\n* Develop and maintain responsive, user-friendly websites and web applications.\n* Create web pages using **HTML, CSS, and JavaScript**.\n* Develop interactive and dynamic features using JavaScript and related frameworks.\n* Work with backend technologies such as **Python, Java, or Node.js**.\n* Design and integrate **REST APIs** and databases into web applications.\n* Write and optimize **SQL queries** for storing and retrieving application data.\n* Test, debug, and resolve application issues.\n* Ensure websites are responsive and compatible across different browsers and devices.\n* Use **Git/GitHub** for version control and collaborative development.\n* Collaborate with designers, developers, and other team members to implement application requirements.\n* Follow coding standards, security practices, and software development best practices.\n\n**Required Skills:**\n\n* HTML5, CSS3, JavaScript\n* Responsive Web Design\n* Python / Java / Node.js\n* SQL and database concepts\n* REST APIs\n* Git and GitHub\n* Basic knowledge of debugging and testing\n* Problem-solving and communication skills\n\n**Good to Have:**\n\n* React.js or another front-end framework\n* Flask/Django or Node.js backend development\n* Bootstrap/Tailwind CSS\n* Cloud deployment basics\n* Knowledge of UI/UX principles\n",
+            "required_skills": [
+                "Deployment",
+                "JavaScript",
+                "Django",
+                "Python",
+                "React",
+                "Flask",
+                "HTML",
+                "Java",
+                "Git",
+                "SQL",
+                "CSS"
+            ],
+            "risk": "Medium Risk",
+            "risk_score": 54.54545454545454,
+            "match_percentage": 54.54545454545454,
+            "found_skills": [
+                "JavaScript",
+                "Python",
+                "HTML",
+                "Git",
+                "SQL",
+                "CSS"
+            ],
+            "missing_skills": [
+                "Deployment",
+                "Django",
+                "React",
+                "Flask",
+                "Java"
+            ],
+            "experience_months": 0,
+            "project_count": 2
+        }
+    ],
+    "Lohitha": [],
+    "Mounasri": [
+        {
+            "date": "2026-09-24 14:54:24",
+            "assessment_type": "Job Role",
+            "target_role": "Software Developer",
+            "risk": "High Risk",
+            "score": 28.57142857142857,
+            "match_percentage": 28.57142857142857,
+            "required_skills": [
+                "Python",
+                "Java",
+                "Data Structures",
+                "Algorithms",
+                "OOP",
+                "SQL",
+                "Git"
+            ],
+            "found_skills": [
+                "Python",
+                "SQL"
+            ],
+            "missing_skills": [
+                "Java",
+                "Data Structures",
+                "Algorithms",
+                "OOP",
+                "Git"
+            ],
+            "education": [
+                "Master"
+            ],
+            "programming_languages": [
+                "Python"
+            ],
+            "project_count": 2,
+            "experience_months": 0,
+            "certifications": [
+                "Web Development"
+            ],
+            "resume_name": "Mounasri_Bhimavarapu_Resume (2).pdf",
+            "resume_fingerprint": "cf1e0099b3484e3e49533f51bd28ff74b0690ea722877dcca0f7e9396ff2b685"
+        },
+        {
+            "date": "2026-09-24 14:53:35",
+            "assessment_type": "Job Role",
+            "target_role": "Software Developer",
+            "risk": "High Risk",
+            "score": 28.57142857142857,
+            "match_percentage": 28.57142857142857,
+            "required_skills": [
+                "Python",
+                "Java",
+                "Data Structures",
+                "Algorithms",
+                "OOP",
+                "SQL",
+                "Git"
+            ],
+            "found_skills": [
+                "Python",
+                "SQL"
+            ],
+            "missing_skills": [
+                "Java",
+                "Data Structures",
+                "Algorithms",
+                "OOP",
+                "Git"
+            ],
+            "education": [
+                "Master"
+            ],
+            "programming_languages": [
+                "Python"
+            ],
+            "project_count": 2,
+            "experience_months": 0,
+            "certifications": [
+                "Web Development"
+            ],
+            "resume_name": "Mounasri_Bhimavarapu_Resume (2).pdf",
+            "resume_fingerprint": "cf1e0099b3484e3e49533f51bd28ff74b0690ea722877dcca0f7e9396ff2b685"
+        }
+    ],
+    "Mouna": []
+}

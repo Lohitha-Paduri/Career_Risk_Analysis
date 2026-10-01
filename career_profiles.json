@@ -1,0 +1,95 @@
+{
+    "Lohitha12": {
+        "current_role": "Student",
+        "experience_years": 0.0,
+        "skills": {
+            "Python": "Advanced",
+            "Sql": "Beginner"
+        },
+        "certifications": [
+            "python certificate"
+        ],
+        "projects": [
+            "weather app"
+        ],
+        "education": "B.Tech Computer Science",
+        "target_role": "Software Developer",
+        "updated_at": "2026-09-24 09:33:12"
+    },
+    "Lohitha": {
+        "name": "Lohitha",
+        "current_role": "Student",
+        "education": "B.Tech Computer Science",
+        "experience": "Fresher",
+        "skills_text": "Python : Advanced",
+        "skills": [
+            {
+                "skill": "Python",
+                "level": "Advanced"
+            }
+        ],
+        "certifications": [
+            "Web developer certificate"
+        ],
+        "projects": "Early detection of Alzheimer's Disease using cognitive features",
+        "interests": [
+            "software developer"
+        ],
+        "target_job_role": "Software Developer"
+    },
+    "Mounasri": {
+        "name": "Mounasri",
+        "current_role": "Student",
+        "education": "MA- Economics",
+        "experience": "Fresher",
+        "skills_text": "Python: Intermediate, SQL: Beginner",
+        "skills": [
+            {
+                "skill": "Python",
+                "level": "Intermediate"
+            },
+            {
+                "skill": "SQL",
+                "level": "Beginner"
+            }
+        ],
+        "certifications": [
+            "Web Development"
+        ],
+        "projects": "Grocery store management",
+        "interests": [
+            "Software Engineer"
+        ],
+        "target_job_role": "Software Developer"
+    },
+    "Mouna": {
+        "name": "Mounasri Bhimavarapu",
+        "current_role": "Trainee",
+        "education": "MA Economics",
+        "experience": "Fresher",
+        "skills_text": "Python : intermediate , MySQL: intermediate , html : beginner",
+        "skills": [
+            {
+                "skill": "Python",
+                "level": "intermediate"
+            },
+            {
+                "skill": "MySQL",
+                "level": "intermediate"
+            },
+            {
+                "skill": "html",
+                "level": "beginner"
+            }
+        ],
+        "certifications": [
+            "Python MySQL",
+            "Web Development for Beginners"
+        ],
+        "projects": "Grocery store management",
+        "interests": [
+            "Software Developer"
+        ],
+        "target_job_role": "Software Developer"
+    }
+}
